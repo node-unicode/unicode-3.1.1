@@ -1,0 +1,1 @@
+module.exports=new Map(JSON.parse(require('zlib').gunzipSync(Buffer.from('H4sIAAAAAAAAEy3PwQ3EIBBD0YZyGAMBu5aI/ttYjPf2ZI3Q5/tYqz2sOfZjd/uNhz3j117xtBkvWzGPV8WycU3vzE7vzK6yWwy7x+5heuQepkfuYXrkHt4elHfN2Lv+uzvF2J1SfHpQFcu+PUDZLYZ9e9DO+8BtwPBNz73/haW9f43e9cNFAQAA','base64'))))
