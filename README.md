@@ -608,6 +608,10 @@ require('@unicode/unicode-3.1.1/Script/TIBETAN/code-points.js');
 require('@unicode/unicode-3.1.1/Script/TIBETAN/symbols.js');
 require('@unicode/unicode-3.1.1/Script/TIBETAN/regex.js');
 
+require('@unicode/unicode-3.1.1/Script/Unknown/code-points.js');
+require('@unicode/unicode-3.1.1/Script/Unknown/symbols.js');
+require('@unicode/unicode-3.1.1/Script/Unknown/regex.js');
+
 require('@unicode/unicode-3.1.1/Script/YI/code-points.js');
 require('@unicode/unicode-3.1.1/Script/YI/symbols.js');
 require('@unicode/unicode-3.1.1/Script/YI/regex.js');
